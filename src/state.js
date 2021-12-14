@@ -9,7 +9,7 @@ function State() {
 
   return (
     // Code Inside div
-    <div></div>
+    <div> </div>
   );
 }
 
